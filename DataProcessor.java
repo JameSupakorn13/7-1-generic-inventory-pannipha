@@ -1,5 +1,4 @@
 package com.lab;
-
 import java.util.Collection;
 
 public class DataProcessor {
